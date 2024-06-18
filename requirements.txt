@@ -1,2 +1,8 @@
 fastapi==0.111.0
 uvicorn==0.30.1
+pydantic==2.7.4
+flake8==7.1.0
+black==24.4.2
+isort==5.13.2
+mypy==1.10.0
+pep8_naming==0.14.1
